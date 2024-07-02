@@ -1,0 +1,124 @@
+None terrain 
+Abra is attacking
+HP of Pikachu 140
+HP of Abra 120
+**************************************************************
+None terrain 
+Pikachu is attacking
+HP of Pikachu 140
+HP of Abra 60
+**************************************************************
+None terrain 
+Abra is attacking
+HP of Pikachu 130
+HP of Abra 60
+**************************************************************
+None terrain 
+Pikachu is attacking
+HP of Pikachu 130
+HP of Abra 40
+**************************************************************
+None terrain 
+Abra is attacking
+HP of Pikachu 120
+HP of Abra 40
+**************************************************************
+Psychic terrain 
+Pikachu is attacking
+HP of Pikachu 120
+HP of Abra 40
+**************************************************************
+Psychic terrain 
+Abra is attacking
+HP of Pikachu 100
+HP of Abra 40
+**************************************************************
+Psychic terrain 
+Pikachu is attacking
+HP of Pikachu 100
+HP of Abra 40
+**************************************************************
+Psychic terrain 
+Abra is attacking
+HP of Pikachu 80
+HP of Abra 40
+**************************************************************
+Psychic terrain 
+Pikachu is attacking
+HP of Pikachu 80
+HP of Abra 40
+**************************************************************
+None terrain 
+Abra is attacking
+HP of Pikachu 70
+HP of Abra 40
+**************************************************************
+Electric terrain 
+Pikachu is attacking
+HP of Pikachu 70
+HP of Abra 20
+**************************************************************
+Electric terrain 
+Abra is attacking
+HP of Pikachu 60
+HP of Abra 20
+**************************************************************
+Electric terrain 
+Pikachu is attacking
+HP of Pikachu 60
+HP of Abra 0
+**************************************************************
+Total Round => 15
+WINNER => Pikachu
+Electric terrain 
+Jolteon is attacking
+HP of Jolteon 150
+HP of Kadabra 70
+**************************************************************
+Electric terrain 
+Kadabra is attacking
+HP of Jolteon 130
+HP of Kadabra 70
+**************************************************************
+Electric terrain 
+Jolteon is attacking
+HP of Jolteon 130
+HP of Kadabra 60
+**************************************************************
+Electric terrain 
+Kadabra is attacking
+HP of Jolteon 110
+HP of Kadabra 60
+**************************************************************
+Electric terrain 
+Jolteon is attacking
+HP of Jolteon 110
+HP of Kadabra 30
+**************************************************************
+Psychic terrain 
+Kadabra is attacking
+HP of Jolteon 70
+HP of Kadabra 30
+**************************************************************
+Psychic terrain 
+Jolteon is attacking
+HP of Jolteon 70
+HP of Kadabra 20
+**************************************************************
+Psychic terrain 
+Kadabra is attacking
+HP of Jolteon 30
+HP of Kadabra 20
+**************************************************************
+Psychic terrain 
+Jolteon is attacking
+HP of Jolteon 30
+HP of Kadabra 10
+**************************************************************
+Psychic terrain 
+Kadabra is attacking
+HP of Jolteon -10
+HP of Kadabra 10
+**************************************************************
+Total Round => 11
+WINNER => Kadabra
